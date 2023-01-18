@@ -32,7 +32,7 @@ function doAsync(rejectPromise = false) {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Async/Await&em=jairoalberto98@hotmail.com
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Async/Await&em=
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

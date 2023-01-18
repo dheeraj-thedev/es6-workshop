@@ -34,7 +34,7 @@ test('symbols on objects', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Symbols&em=jairoalberto98@hotmail.com
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Symbols&em=
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

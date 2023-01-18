@@ -10,9 +10,7 @@ function getCharacter() {
     ],
     greet(greeting = 'Hi') {
       const {first, last} = this.name
-      return `${greeting}! My name is ${first} ${last} and my ID is ${
-        this._id
-      } and my password is ${this.password}!`
+      return `${greeting}! My name is ${first} ${last} and my ID is ${this._id} and my password is ${this.password}!`
     },
     getTeachers() {
       return this.classes.map(({teacher}) => teacher)
@@ -86,7 +84,7 @@ test.skip('can be used to do some fancy stuff with arrays', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Proxies&em=jairoalberto98@hotmail.com
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Proxies&em=
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!

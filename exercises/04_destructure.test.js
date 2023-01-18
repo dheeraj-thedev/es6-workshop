@@ -67,7 +67,7 @@ test('can skip indexes in arrays', () => {
 })
 
 test('can reach nested arrays', () => {
-  // Call getNestedNumbers and pull the first value out as `one`, the 3 as `three` and 6 as `six`.
+  // Call getNestedNumbers and pull the first value out as `one`, the 3 as `three` and 6 as `sixth`.
   expect(one).toBe(1)
   expect(three).toBe(3)
   expect(six).toBe(6)
@@ -77,7 +77,7 @@ test('can reach nested arrays', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Destructuring&em=jairoalberto98@hotmail.com
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Destructuring&em=
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!
