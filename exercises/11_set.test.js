@@ -20,7 +20,7 @@ test('doesn`t allow duplicates', () => {
 
 //////// Elaboration & Feedback /////////
 /*
-http://ws.kcd.im/?ws=ES6+and+Beyond&e=Sets&em=
+http://ws.kcd.im/?ws=ES6+and+Beyond&e=Sets&em=jairoalberto98@hotmail.com
 */
 test('I submitted my elaboration and feedback', () => {
   const submitted = false // change this when you've submitted!
